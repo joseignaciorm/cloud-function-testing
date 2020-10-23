@@ -1,2 +1,2 @@
-def hello_world(request):
-    return f"Hello World From GitHub!"
+def hello_world():
+    print("Hello World From GitHub!")
