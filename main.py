@@ -1,2 +1,2 @@
-def readCsv(request):
+def hello-world(request):
     return f"Hello World From GitHub!"
